@@ -5,7 +5,7 @@
 I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/SqmkZ5IdwzqVWZxNri/giphy.gif" width="400" alt="Programmer Welcome Animation">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOK7PwS6B2/giphy.gif" width="400" alt="Programmer Waving Animation">
 </div>
 
 ## 🛠️ Skills & Tech Stack
@@ -31,7 +31,7 @@ I'm a **Frontend Developer** who loves creating responsive and beautiful web pag
 
 ## 🎨 Fun Animations
 <div align="center">
-  <img src="https://media.giphy.com/media/3o6Zta4k1fOg9rX2Z2/giphy.gif" width="400" alt="Matrix Code Animation">
+  <img src="https://media.giphy.com/media/3o7TKs9fULi4f6g7gI/giphy.gif" width="400" alt="Neon Coding Animation">
 </div>
 
 ## 📫 Let's Connect
