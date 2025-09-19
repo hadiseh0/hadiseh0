@@ -1,41 +1,67 @@
-<div align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hadiseh!+%F0%9F%91%8B;Frontend+Developer;Creating+Responsive+%26+Beautiful+Websites;Turning+Ideas+Into+Interactive+Experiences+💻✨"/>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Hadiseh!+%F0%9F%91%8B;Passionate+Frontend+Developer;Crafting+Awesome+Web+UIs;Let's+Build+Something+Cool!+%E2%9C%A8" alt="Typing Animation">
 </div>
 
----
+I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
-<div align="center">  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGViNmU5OHUyaGp2aDdvbjFuc2ltdmtubDJtNjd1ZW1wYndkbW82cSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT0Gqz5m3rJrsfZ6g8/giphy.gif" width="250"/>  
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOK7PwS6B2/giphy.gif" width="400" alt="Programmer Waving Animation">
 </div>
 
 ## 🛠️ Skills & Tech Stack
-
-- HTML5  
-- CSS3  
-- JavaScript  
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
+      <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+    </tr>
+  </table>
+</div>
 
 ## 📊 GitHub Stats (Animated!)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadiseh0&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="48%" alt="Stats Card">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadiseh0&layout=compact&theme=radical&hide_border=true" width="48%" alt="Top Languages">
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=hadiseh0&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hadiseh0&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=hadiseh0&theme=radical)  
-
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadiseh0&theme=radical&hide_border=true" alt="Streak Stats">
+</div>
 
 ## 🎨 Fun Animations
-✨ *Neon Coding Animation Coming Soon!* ✨  
-
----
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7TKs9fULi4f6g7gI/giphy.gif" width="400" alt="Neon Coding Animation">
+</div>
 
 ## 📫 Let's Connect
-
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [Your Profile](https://linkedin.com/in/hadiseh0)  
-- 🐦 Twitter: [@hadiseh0](https://x.com/hadiseh0)  
-
----
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></td>
+      <td>your.email@example.com</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></td>
+      <td>[Your Profile](https://linkedin.com/in/hadiseh0)</td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></td>
+      <td>[@hadiseh0](https://x.com/hadiseh0)</td>
+    </tr>
+  </table>
+</div>
 
 ## ⚡ Fun Fact
-⌨️ *I enjoy turning coffee into code & code into fun!* ☕💻
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTY2ZW1ibGN3bTF2cnZtdnI2aGd0ajU5b2g4YTVmZjl3bm8wNnlodCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bcKmIWkUMCjVm/giphy.gif" width="400" alt="Girl Coding Animation">
+</div>
+
+I’m always experimenting with new designs and learning cool stuff to level up my coding game!
+
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hadiseh0&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter">
+</div>
+
+⭐ **Star my repos if you like them!** Let's build something awesome together! 🚀
