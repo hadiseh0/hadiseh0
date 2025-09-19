@@ -5,7 +5,7 @@
 I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
 <div align="center">
-  <img src="https://media.giphy.com/media/hx4poP5jfPPJ4W1TJa/giphy.gif" width="400" alt="Waving Hand GIF">
+  <img src="https://media.giphy.com/media/26n6Gx9moCgs1pUuk/giphy.gif" width="400" alt="Coding Laptop Animation">
 </div>
 
 ## 🛠️ Skills & Tech Stack
@@ -15,32 +15,6 @@ I'm a **Frontend Developer** who loves creating responsive and beautiful web pag
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
       <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
-    </tr>
-  </table>
-</div>
-
-## 🚀 Featured Projects
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github.com/hadiseh0/red-Main-page/raw/main/assets/images/screenshot.png" width="300" alt="red-Main-page Screenshot"> // 
-      </td>
-      <td>
-        **[red-Main-page](https://github.com/hadiseh0/red-Main-page)** <br>
-        A sleek resume layout with custom CSS animations and JS interactions. <br>
-        <img src="https://img.shields.io/badge/Live-Demo-00D4AA?style=for-the-badge&logo=github&logoColor=white" alt="Live Demo">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github.com/hadiseh0/Karyar-Git-Course/raw/main/screenshot.png" width="300" alt="Karyar Screenshot"> // 
-      </td>
-      <td>
-        **[Karyar-Git-Course](https://github.com/hadiseh0/Karyar-Git-Course)** <br>
-        My journey mastering Git and version control. <br>
-        <img src="https://img.shields.io/badge/Learning-Journey-FF6B6B?style=for-the-badge&logo=book&logoColor=white" alt="Learning">
-      </td>
     </tr>
   </table>
 </div>
@@ -57,8 +31,7 @@ I'm a **Frontend Developer** who loves creating responsive and beautiful web pag
 
 ## 🎨 Fun Animations
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QzXcLWo/giphy.gif" width="400" alt="Web Dev Vibe GIF">
-  <img src="https://media.giphy.com/media/26ufdip3cKq2f3Y6c/giphy.gif" width="400" alt="Colorful Code Animation">
+  <img src="https://media.giphy.com/media/3o6Zta4k1fOg9rX2Z2/giphy.gif" width="400" alt="Matrix Code Animation">
 </div>
 
 ## 📫 Let's Connect
@@ -66,15 +39,15 @@ I'm a **Frontend Developer** who loves creating responsive and beautiful web pag
   <table>
     <tr>
       <td><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></td>
-      <td> hadisehkhamar83@gmail.com</td> // 
+      <td>your.email@example.com</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></td>
-      <td>[Your Profile](https://linkedin.com/in/hadiseh0)</td> // LinkedIn خودت
+      <td>[Your Profile](https://linkedin.com/in/hadiseh0)</td>
     </tr>
     <tr>
       <td><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></td>
-      <td>[@hadiseh0](https://x.com/hadiseh0)</td> // Twitter/X 
+      <td>[@hadiseh0](https://x.com/hadiseh0)</td>
     </tr>
   </table>
 </div>
