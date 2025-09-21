@@ -4,8 +4,9 @@
 
 I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
+<!-- 🌟 گیف دوم جدید دختر برنامه‌نویس -->
 <div align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="Girl Coding Animation">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd1aG9jZmtnNmRmbXN2ZmNoMm1jYjQ5aGhrd3p1aWh3azZyNnhqOCZlcD12MV9naWZzX3NlYXJjaCZjdD1nirlR2KhgEYxS/giphy.gif" width="400" alt="Girl Coding Animation">
 </div>
 
 ## 🛠️ Skills & Tech Stack
@@ -15,6 +16,7 @@ I'm a **Frontend Developer** who loves creating responsive and beautiful web pag
       <td><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"></td>
       <td><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"></td>
       <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"></td>
+      <!-- ✅ React اضافه شد -->
       <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"></td>
     </tr>
   </table>
