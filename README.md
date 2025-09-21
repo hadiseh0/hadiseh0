@@ -4,9 +4,9 @@
 
 I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
-<!-- 🌟 گیف دختر برنامه‌نویس -->
+<!-- 🌟 گیف دختر برنامه‌نویس جدید -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZnN3VhcnpsN2RrMWV1Znl2NTJ2YjAxZ2c4cTNobTdpeDNuZzdoaCZlcD12MV9naWZzX3NlYXJjaCZjdD1P5pBp9F0d3TjW/giphy.gif" width="400" alt="Girl Coding Animation">
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" width="400" alt="Girl Coding Animation">
 </div>
 
 ## 🛠️ Skills & Tech Stack
