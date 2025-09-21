@@ -4,9 +4,9 @@
 
 I'm a **Frontend Developer** who loves creating responsive and beautiful web pages with HTML, CSS, and JavaScript. Turning ideas into interactive experiences is my passion! 💻✨
 
-<!-- 🌟 گیف کیوت سلام دادن -->
+<!-- 🌟 گیف کیوت و فانتزی سلام دادن -->
 <div align="center">
-  <img src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif" width="400" alt="Cute Hello Animation">
+  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="400" alt="Cute Hello GIF">
 </div>
 
 ## 🛠️ Skills & Tech Stack
